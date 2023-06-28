@@ -7,10 +7,15 @@ The name Pandas refer to “Panel Data”, which means a structured dataset. Pan
 
 
 **Key Features of Pandas:**
+
    Perform Group by operation seamlessly,
+   
    Datasets are mutable using pandas which means we can add new rows and columns to them,
+   
    Easy to handle missing data,
+   
    Merge and join datasets,
+   
    Indexing and subsetting data.
 
 
